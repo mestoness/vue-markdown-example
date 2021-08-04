@@ -221,7 +221,7 @@ textarea {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   margin-bottom: 1rem;
   height: 40vh;
-  resize: inherit;
+  resize: vertical;
 }
 textarea:focus {
   outline: 0;
